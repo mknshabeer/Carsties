@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "PiwRb+NWyP4cteqjQRLZrNOZSIfHoTpldN5RBpMi+FAP1D24c4mLyaBxqbtppRDAkN7fry6LvFTLCunKftI8dA==",
+  "success": true,
+  "projectFilePath": "C:\\My Files\\Dev\\Udemy\\Auction\\Carsties\\src\\AuctionService\\AuctionService.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ShabeerM\\.nuget\\packages\\microsoft.aspnetcore.openapi\\8.0.1\\microsoft.aspnetcore.openapi.8.0.1.nupkg.sha512",
+    "C:\\Users\\ShabeerM\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "C:\\Users\\ShabeerM\\.nuget\\packages\\microsoft.openapi\\1.4.3\\microsoft.openapi.1.4.3.nupkg.sha512",
+    "C:\\Users\\ShabeerM\\.nuget\\packages\\swashbuckle.aspnetcore\\6.4.0\\swashbuckle.aspnetcore.6.4.0.nupkg.sha512",
+    "C:\\Users\\ShabeerM\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.4.0\\swashbuckle.aspnetcore.swagger.6.4.0.nupkg.sha512",
+    "C:\\Users\\ShabeerM\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.4.0\\swashbuckle.aspnetcore.swaggergen.6.4.0.nupkg.sha512",
+    "C:\\Users\\ShabeerM\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.4.0\\swashbuckle.aspnetcore.swaggerui.6.4.0.nupkg.sha512"
+  ],
+  "logs": []
+}
