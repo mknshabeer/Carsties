@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\My Files\\Dev\\Udemy\\Auction\\Carsties\\src\\auctionservice\\AuctionService.csproj": {}
+    "C:\\My Files\\Dev\\Udemy\\Auction\\Carsties\\src\\AuctionService\\AuctionService.csproj": {}
   },
   "projects": {
-    "C:\\My Files\\Dev\\Udemy\\Auction\\Carsties\\src\\auctionservice\\AuctionService.csproj": {
+    "C:\\My Files\\Dev\\Udemy\\Auction\\Carsties\\src\\AuctionService\\AuctionService.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\My Files\\Dev\\Udemy\\Auction\\Carsties\\src\\auctionservice\\AuctionService.csproj",
+        "projectUniqueName": "C:\\My Files\\Dev\\Udemy\\Auction\\Carsties\\src\\AuctionService\\AuctionService.csproj",
         "projectName": "AuctionService",
-        "projectPath": "C:\\My Files\\Dev\\Udemy\\Auction\\Carsties\\src\\auctionservice\\AuctionService.csproj",
+        "projectPath": "C:\\My Files\\Dev\\Udemy\\Auction\\Carsties\\src\\AuctionService\\AuctionService.csproj",
         "packagesPath": "C:\\Users\\ShabeerM\\.nuget\\packages\\",
-        "outputPath": "C:\\My Files\\Dev\\Udemy\\Auction\\Carsties\\src\\auctionservice\\obj\\",
+        "outputPath": "C:\\My Files\\Dev\\Udemy\\Auction\\Carsties\\src\\AuctionService\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ShabeerM\\AppData\\Roaming\\NuGet\\NuGet.Config",
